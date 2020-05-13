@@ -1,6 +1,6 @@
 # DataScience
-DataScience Projects 
-Testing MS VCode Intergation with Git
+DataScience Projects
 
+Testing MS VCode Intergation with Git
 
 Testing Again
